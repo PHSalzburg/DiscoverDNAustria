@@ -1,0 +1,3118 @@
+{
+   "events": [
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 1.0,
+         "Frage": "Mir ist wichtig, dass mein Partner und ich das gleiche Bildungsniveau teilen.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Ja"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 2.0,
+         "Frage": "K\u00f6rpergr\u00f6\u00dfe",
+         "Frageart": "offene",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": "Find ich im Kontext von Partnerschaft nicht schlecht weil es vielen Frauen und einigen M\u00e4nnern wichtig ist",
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 3.0,
+         "Frage": "Wie wichtig ist es, dass Ihr Partner mindestens so gro\u00df ist wie Sie?",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 4.0,
+         "Frage": "Welches Bild entspricht Ihrer Pers\u00f6nlichkeit am ehesten?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 5.0,
+         "Frage": "Welches Bild spricht Sie mehr an?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 6.0,
+         "Frage": "Welcher ethnischen Gruppe geh\u00f6ren Sie an",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 7.0,
+         "Frage": "Haben Sie ethnische Vorlieben?",
+         "Frageart": "multiple chioce (7 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 8.0,
+         "Frage": "Mir ist es wichtig, dass mein Partner den gew\u00e4hlten ethnischen Gruppen entspricht.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 9.0,
+         "Frage": "Ich bin mit meinen \u00e4u\u00dferen Erscheinungsbild sehr zufrieden.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Ja"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 10.0,
+         "Frage": "Mir ist wichtig, dass mein Partner ein attraktives \u00c4u\u00dferes hat.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Jain"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 11.0,
+         "Frage": "Welche der folgenden Religionen f\u00fchlen Sie sich zugeh\u00f6rig?",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 12.0,
+         "Frage": "F\u00fcr welche religi\u00f6sen \u00dcberzeugungen w\u00e4ren Sie offen?",
+         "Frageart": "multiple chioce (7 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 13.0,
+         "Frage": "Die Religionszugeh\u00f6rigkeit oder Spiritualit\u00e4t meines Partners ist mir sehr wichtig.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 14.0,
+         "Frage": "Welche Rolle sollte ihr Partner am ehesten erf\u00fcllen?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": "Welche Rollen wurden hier angegeben?",
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 15.0,
+         "Frage": "Welche Aktivit\u00e4t w\u00fcrden Sie am ehesten f\u00fcr ein erstes Date w\u00e4hlen?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "K\u00f6nnte DPS machen"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 16.0,
+         "Frage": "Sie sind bei Ihrem ersten Date. Was wird Ihrem Gegen\u00fcber zuerst an Ihnen auffallen?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 17.0,
+         "Frage": "Angenommen, Sie m\u00f6gen Ihr Date - wie wahrscheinlich werden Sie auf den ersten Kuss hinarbeiten?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 18.0,
+         "Frage": "Stellen Sie sich vor, Sie planen ein gemeinsames Wochenende. Was w\u00fcrden Sie hierbei am ehesten in Betracht ziehen?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 19.0,
+         "Frage": "Angenommen, Ihr Partner schl\u00e4gt Ihnen eine Art geteilten Terminplaner vor, an dem Sie beide ihre t\u00e4glichen Unternehmungen ausrichten. Wie f\u00fchlen Sie sich dabei?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": "Autonomie/Unabh\u00e4ngigkeit",
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 20.0,
+         "Frage": "Stellen Sie sich vor, Sie h\u00e4tten einen Streit mit ihrem Partner. Wie wichtig ist es Ihnen, sich schnellst m\u00f6glich wieder zu vers\u00f6hnen?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": "Konfrontativ/Vers\u00f6hnlich",
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 21.0,
+         "Frage": "Stellen Sie sich vor, Ihr Partner stellt Sie auf einer Geburtstagsfeier seinen Freunden vor. Was ist dabei Ihr erster Gedanke?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": "Soziales Verhalten? Extraversion?",
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 22.0,
+         "Frage": "W\u00e4hlen Sie die Werte, die in einer Beziehung wichtig f\u00fcr Sie sind.",
+         "Frageart": "multiple choice (32 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Jain eher durch einzelne Skalen abgefragt bei denen manche Werte dahinterstehen"
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 23.0,
+         "Frage": "Ich habe ein starkes Verlangen nach Sex.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 24.0,
+         "Frage": "Absolute Treue ist in einer ernsthaften Beziehung unerl\u00e4sslich.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 25.0,
+         "Frage": "Angenommen, Ihr Partner bittet Sie, eine Ihrer Angewohnheiten abzulegen. Wie sehr sind Sie dazu bereit, sich f\u00fcr Ihren Partner zu ver\u00e4ndern?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 26.0,
+         "Frage": "Stellen Sie sich vor, Ihr Partner kommt zu einem Treffen eine Viertelstunde zu sp\u00e4t, ohne Ihnen Bescheid zu sagen. Wie reagieren Sie?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 27.0,
+         "Frage": "Wie viel Zeit in der Woche m\u00f6chten Sie mit Ihrem Partner verbringen?",
+         "Frageart": "4 Bilder ",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 28.0,
+         "Frage": "Was w\u00fcrden Sie am ehesten ausprobieren?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 29.0,
+         "Frage": "Welches Bild bevorzugen Sie?",
+         "Frageart": "4 Bilder (abstrakt)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 30.0,
+         "Frage": "Ich sch\u00e4tze mich selbst als optimistisch ein.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 31.0,
+         "Frage": "Angenommen, Sie ziehen in eine andere Stadt um. Wie gehen Sie dabei vor?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 32.0,
+         "Frage": "Ich nehme mir Zeit f\u00fcr andere.",
+         "Frageart": "7-P-Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 33.0,
+         "Frage": "Ich mag Ordnung und Relgelm\u00e4\u00dfigkeit.",
+         "Frageart": "7-P-Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 34.0,
+         "Frage": "Ich besitze viel Ehrgeiz.",
+         "Frageart": "7-P-Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 35.0,
+         "Frage": "Ich achte auf Details.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 36.0,
+         "Frage": "Ich rege mich schnell auf.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 37.0,
+         "Frage": "Ich kann viele Informationen verarbeiten.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 38.0,
+         "Frage": "Ich mache gerne nette Dinge f\u00fcr andere Personen.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 39.0,
+         "Frage": "Ich empfinde mich als f\u00fcrsorglich.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 40.0,
+         "Frage": "Ich sch\u00e4tze mich als verst\u00e4ndnisvoll ein.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 41.0,
+         "Frage": "Ich werde schnell w\u00fctend.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 42.0,
+         "Frage": "Ich bin eine verantwortungsbewusste Person.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 43.0,
+         "Frage": "Ich informiere mich regelm\u00e4\u00dfig \u00fcber aktuelle Ereignisse.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 44.0,
+         "Frage": "Ich bin eine ideenreiche Person.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 45.0,
+         "Frage": "Ich habe viel erreicht.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 46.0,
+         "Frage": "Welches Bild beschreibt am besten Ihre Stimmung in einer ganz normalen Woche.",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 47.0,
+         "Frage": "Welches Bild beschreibt Sie am besten, wenn Sie sich gestresst f\u00fchlen?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 48.0,
+         "Frage": "Was hilft Ihnen, wieder Kraft zu tanken?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 49.0,
+         "Frage": "Ich mag Abwechslung.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 50.0,
+         "Frage": "Ich f\u00fchle mich schnell gestresst.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 51.0,
+         "Frage": "Ich bin leicht entmutigt.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 52.0,
+         "Frage": "Ich habe die F\u00e4higkeit, andere Leute zum Lachen zu bringen.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 53.0,
+         "Frage": "Ich bin spontan.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 54.0,
+         "Frage": "Mit neuen Bekanntschaften komme ich schnell ins Gespr\u00e4ch.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 55.0,
+         "Frage": "Ich empfinde mich als kontaktfreudig.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 56.0,
+         "Frage": "Ich kleide mich modisch.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 57.0,
+         "Frage": "Ich sehe athletisch aus.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 58.0,
+         "Frage": "Stellen Sie sich vor, Ihre Feunde m\u00fcssten vier der unten aufgef\u00fchrten Eigenschaften w\u00e4hlen, die Sie treffend beschreiben. Welche vier der unten aufgef\u00fchrten Punkte w\u00fcrden Ihre Freunde w\u00e4hlen?",
+         "Frageart": "4 aus 32 ",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 59.0,
+         "Frage": "F\u00fcr welche drei Dinge, die Ihnen in Ihrem Leben widerfahren sind, sind Sie dankbar?",
+         "Frageart": "3 open questions",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 60.0,
+         "Frage": "Wof\u00fcr interessieren Sie sich besonders?",
+         "Frageart": "39 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 61.0,
+         "Frage": "Jeder hat unterschiedliche Leidenschaften, wie Kunst, Sport, Musik, Familie oder Glaube. F\u00fcr was k\u00f6nnen Sie sich begeistern?",
+         "Frageart": "open question",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 62.0,
+         "Frage": "Bitte beschreiben Sie drei T\u00e4tigkeiten, denen Sie in Ihrer Freizeit am liebsten nachgehen.",
+         "Frageart": "open question",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 63.0,
+         "Frage": "Wie oft rauchen Sie?",
+         "Frageart": "5-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 64.0,
+         "Frage": "Bitte geben Sie an, welche Rauchgewohnheiten Sie bei Ihrem Partner akzeptieren w\u00fcrden.",
+         "Frageart": "5-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 65.0,
+         "Frage": "Mir ist wichtig, dass mein Partner und ich die gleichen Rauchgewohnheiten haben.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 66.0,
+         "Frage": "Wie h\u00e4ufig Trinken sie?",
+         "Frageart": "5-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 67.0,
+         "Frage": "Bitte geben Sie an, welche Trinkgewohnheiten Sie bei Ihrem Partner akzeptieren w\u00fcrden.",
+         "Frageart": "5-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 68.0,
+         "Frage": "Mir ist wichtig, dass mein Patner und ich die gleichen Trinkgewohnheiten teilen.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 69.0,
+         "Frage": "Wie viele Kinder unter 18 Jahren leben zurzeit in Ihrem Haushalt?",
+         "Frageart": "4 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 70.0,
+         "Frage": "K\u00f6nnen Sie sich vorstellen, mit Ihrem zuk\u00fcnftigen Partner zusammenzuziehen?",
+         "Frageart": "3 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 71.0,
+         "Frage": "W\u00fcrden Sie einen Partner akzeptieren, der Kinder unter 18 Jahren in seinem Haushalt hat?",
+         "Frageart": "3 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 72.0,
+         "Frage": "Vorname",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 73.0,
+         "Frage": "Stadt",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 74.0,
+         "Frage": "Wie weit entfernt von Ihnen d\u00fcrfen Ihre Partnervorschl\u00e4ge wohnen?",
+         "Frageart": "5 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 75.0,
+         "Frage": "Die Entfernung zwischen mir und meinen Partnervorschl\u00e4gen ist mir sehr wichtig.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 76.0,
+         "Frage": "Alter",
+         "Frageart": "open question",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 77.0,
+         "Frage": "Es ist wichtig f\u00fcr mich, dass mien Partner das gleiche Alter hat.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 78.0,
+         "Frage": "Welcher Beruflichen T\u00e4tigkeit gehen Sie nach?",
+         "Frageart": "open question",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 79.0,
+         "Frage": "Wie hoch ist Ihr j\u00e4hrliches Bruttoeinkommen?",
+         "Frageart": "7 M\u00f6gl.",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "eDarling",
+         "Frageposition": 80.0,
+         "Frage": "Es ist mir wichtig, dass mein Partner und ich ein \u00e4hnliches Einkommen haben.",
+         "Frageart": "7-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR SEARCH",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 1.0,
+         "Frage": "You'd like him to be (subtle - direct)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 2.0,
+         "Frage": "You'd like him to be  (shy - confident)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 3.0,
+         "Frage": "You'd like him to be (instinctive - reflective)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 4.0,
+         "Frage": "You'd like him to be (happiest at home - the life and soul of the party)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 5.0,
+         "Frage": "You'd like him to be (methodical - spontaneaus)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 6.0,
+         "Frage": "You'd like him to be (rational - a dreamer)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 7.0,
+         "Frage": "You'd like him to be (lively and energetic - calm and relaxed)",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 8.0,
+         "Frage": "What type of man do you always find attractive ",
+         "Frageart": "mc / not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 9.0,
+         "Frage": "Ideally, how old would he be",
+         "Frageart": "Skala",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 10.0,
+         "Frage": "Ideally, how tall would he be",
+         "Frageart": "Skala",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 11.0,
+         "Frage": "What educational qualifications would he have",
+         "Frageart": "not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 12.0,
+         "Frage": "With children living at home ?",
+         "Frageart": "yes - no / not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 13.0,
+         "Frage": "What country would he come from ?",
+         "Frageart": "mc / not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 14.0,
+         "Frage": "Which religion would he belong to ? ",
+         "Frageart": "mc / not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 15.0,
+         "Frage": "smoking habits",
+         "Frageart": "not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 16.0,
+         "Frage": "you would love him to contribute (calm and reassuring - energetic and inspiring)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 17.0,
+         "Frage": "when you're anxious, you would expect him to (giving advice - listening to me)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 18.0,
+         "Frage": "you would like him to be able to (stand up to me - be accomodating) ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 19.0,
+         "Frage": "what do you look at first in a man ? ",
+         "Frageart": "mc / not very important - quite important - very important",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR VISION",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 20.0,
+         "Frage": "Do you think it is important to make long term plans together",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 21.0,
+         "Frage": "Is it important that decisions are taken together ?",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 22.0,
+         "Frage": "Is sharing cultural and intellectual reference points important to you ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 23.0,
+         "Frage": "Do you think the roles should be defined in a relationship ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 24.0,
+         "Frage": "Gestures of affection every day ",
+         "Frageart": "liker 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 25.0,
+         "Frage": "Is sharing interests, hobbies and passions important to you ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 26.0,
+         "Frage": "Feeling that you are the woman in his life",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 27.0,
+         "Frage": "Taking care of him and showing him affection ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 28.0,
+         "Frage": "Do you think that love is essentially passionate or rational ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 29.0,
+         "Frage": "What ist the secret to a relationship that works (live in the moment - plan for the future)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 30.0,
+         "Frage": "Are you in favour of keeping some things a mystery (Is the secret to a lasting relationship - Is not necessary when you are in love)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 31.0,
+         "Frage": "The way to someone's heart is through their stomach. Dinner with friends would consist of ",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 32.0,
+         "Frage": "Are you a relaist or an idealist? In love, you're more ",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 33.0,
+         "Frage": "What do you think of routine in a relationship ? (I value security and stability - I can't stand routine)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 34.0,
+         "Frage": "When something is on your mind (I'll discuss it with my partner immediately - I wouldn't want to bother my partner by bringing it up)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 35.0,
+         "Frage": "You believe sexual attraction in a relationship is (not) important",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 36.0,
+         "Frage": "And your sex drive ? (high to low)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 37.0,
+         "Frage": "Your view of sexual fantasies and experimentation (I like to spice up my sex life - I don't feel the need to experiment)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 38.0,
+         "Frage": "You both need to relax this evening. What do you do ? (heading out to meet some friends - staying in to spend some time alone together)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 39.0,
+         "Frage": "He has just fallen out with his bestie (I ask him how he feels - I call his friend to help resolve the situation)",
+         "Frageart": "likert 1-5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 40.0,
+         "Frage": "When he needs comforting (listen and offer my support - help him find a solution)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 41.0,
+         "Frage": "Ouch! You can't stand his outfit for this evening (I'd tell him exactly what I thought - I'd suggest an alternative that we both like)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 42.0,
+         "Frage": "Nobody's perfect! He makes a noise when he chews gum (Tell him - let my body language to the talking)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR PERSONALITY",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 43.0,
+         "Frage": "You are mostly (calm, impulsive..)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 44.0,
+         "Frage": "You are best described as (emotive and spontaneaus - calm and thoughtful)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 45.0,
+         "Frage": "You are best describes as (efficient - relaxed)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 46.0,
+         "Frage": "You are best describes as (Extrovert - introvert)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 47.0,
+         "Frage": "You are best describes as (a saver - a spender)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 48.0,
+         "Frage": "As far as you're concerned, being organised is (necessary - boring)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 49.0,
+         "Frage": "Your attitude to life (I live for the moment - I plan fo the future)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 50.0,
+         "Frage": "In three to five years (I know exactly where I'd like to be - I don't even know what I'll be doing in 3 months)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 51.0,
+         "Frage": "When something worries you (I tell someone as soon as possible - I keep it to myself)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 52.0,
+         "Frage": "When people first meet you, they often see you as (a little shy - open and enthusiastic)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 53.0,
+         "Frage": "You ususally prefer (Nothing to do - Lots of thins to do)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 54.0,
+         "Frage": "You deal with stress by ",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 55.0,
+         "Frage": "With others you are mainly (outgoing - reserved) ",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 56.0,
+         "Frage": "When you take part in a discussion (I like to express my point of view - I prefer to hold back)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 57.0,
+         "Frage": "If someone tries to contradict you your reaction is (I don't allow that to happen - I don't say anything)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 58.0,
+         "Frage": "If your friends were asked what they liked best about you, what would they say ? (My organisational skills - My flexibility and creativity)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 59.0,
+         "Frage": "If your friends were asked what they liked best about you, what would they say ? (analytical mind - enthusiasm)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 60.0,
+         "Frage": "When you have to make an important decision (I go with my instinct - I look at the facts)",
+         "Frageart": "dichotom",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 61.0,
+         "Frage": "You're looking for a present. Ooh look! There's something interesting in this shop (I decide to keep looking around - I buy it straight away)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 62.0,
+         "Frage": "After work (Relaxing in peace and quiet at home - Heading out ot a lively bar to meet new people)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 63.0,
+         "Frage": "You're waiting at the bus stop next to a man you find rather attractive (I try to strike up a conversation - I say nothing and avoid eye contact)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 64.0,
+         "Frage": "There's tension at work! You're hoping for a promotion, but one of your colleagues also want the job .. What do you do ? (I don't get my hopes - I'm sure I'll get it, I deserve it)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 65.0,
+         "Frage": "You like spending quality time with (a credit card, a pet...)",
+         "Frageart": "mc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 66.0,
+         "Frage": "How do you feel about the following statement? - You're free and don't like to be pressurised (that's totally me - that's not me at all)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 67.0,
+         "Frage": "Let's move on! Do you like challenge and variety  (That's totally me - That's not me at all)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 68.0,
+         "Frage": "Do you live to enjoy yourself ? ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 69.0,
+         "Frage": "You're a planner and don't like spontaneity",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 70.0,
+         "Frage": "You respect the other's opoinions ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 71.0,
+         "Frage": "You're quite traditional and usually rely on past experience",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 72.0,
+         "Frage": "You love travelling and exploring different cultures",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 73.0,
+         "Frage": "You care about people around you and like to see them happy ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 74.0,
+         "Frage": "When something matters to you, you don't let anyone get in your way",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 75.0,
+         "Frage": "It's often you that calls the shots when you're out with your friends",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 76.0,
+         "Frage": "You like to make decisions alone without letting yourself be influenced by others",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 77.0,
+         "Frage": "A new job? You're quick to adapt and enjoy new challenges ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 78.0,
+         "Frage": "You don't hold back, above all else you live to enjoy yourself",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 79.0,
+         "Frage": "You like stability and don't really like taking risks",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 80.0,
+         "Frage": "You respect order and don't really like change",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 81.0,
+         "Frage": "You think it's important to respect the values you grew up with",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 82.0,
+         "Frage": "You like to volunteer for good causes",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 83.0,
+         "Frage": "You don't tend to hold grudges ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 84.0,
+         "Frage": "You maintain a good work-life balance",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 85.0,
+         "Frage": "You like to manage an be in control",
+         "Frageart": "likert 1-4",
+         "Fragenintention": "-",
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR TASTES",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": "Wird abgefragt durch  communities",
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 86.0,
+         "Frage": "Time to use your imagination! You see yourself living happily (in a tent, in an igloo, in a cosy cottage ...)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 87.0,
+         "Frage": "As a treat, you would choose to.. (flowers, a weekend away, a puppy,...)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 88.0,
+         "Frage": "For you, the biggest luxury would be (owning a masterpiece, expensive jewellery,...)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 89.0,
+         "Frage": "Time to spoil youself! You like to treat yourself with (pick'nmix, a pair fo stilettos, a trashy novel...)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 90.0,
+         "Frage": "Your top holiday destinations would be (a desert safari, winter sports, ...)",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 91.0,
+         "Frage": "Your favourite hobbies ",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 92.0,
+         "Frage": "Your pets ",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 93.0,
+         "Frage": "Going out",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 94.0,
+         "Frage": "Sports you enjoy",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 95.0,
+         "Frage": "Let's talk about painting .. You prefer (monet, picasso, van gogh, da vinci)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 96.0,
+         "Frage": "Your kind of music is (classical, dance, jazz, rock, hip hop, pop)",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 97.0,
+         "Frage": "For an evening out at the cinema, your type of film would be ",
+         "Frageart": "mc (1-3 choices)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR VALUES",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 98.0,
+         "Frage": "Are you ready for a long-term relationship",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 99.0,
+         "Frage": "Your view of fidelity (not acceptable - in open relationships)",
+         "Frageart": "likert 1-3",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 100.0,
+         "Frage": "The importance of family ties",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 101.0,
+         "Frage": "Your relationship with your family (constantly in touch - rarely in touch)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 102.0,
+         "Frage": "Your view on the parent-child relationship (important to have a friendly rs - firm boundaries)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 103.0,
+         "Frage": "Setting limits when raising children (Is key - restricts natural creativity and freedom)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 104.0,
+         "Frage": "Parents and children: how do you see free time spent as a family? (It's important to do lots of activities together - everyone in a family should have time to themselves)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 105.0,
+         "Frage": "Dinner time! Ensuring children have a healthy diet (parents should never give in - Children should get the things they really want)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 106.0,
+         "Frage": "In your view, money (doesn't necessarily make you happy - is absolutely essential for happiness)",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 107.0,
+         "Frage": "How important is religion (or spiritual beliefs) in your life ",
+         "Frageart": "likert 1-4",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": "YOUR INFORMATION",
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 108.0,
+         "Frage": "Your religion (This information is sensitive data will be processed only as part of affiny services)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 109.0,
+         "Frage": "Your religious practice (practicing, occasional, ..)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 110.0,
+         "Frage": "Your diet (I eat everything, vegetarian)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 111.0,
+         "Frage": "Your alcoholic intake (not at all, low, heavy,..)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 112.0,
+         "Frage": "Your smoking habits ",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 113.0,
+         "Frage": "Your ethnic origin",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 114.0,
+         "Frage": "Your nationality",
+         "Frageart": "sc (offen)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 115.0,
+         "Frage": "Your profession",
+         "Frageart": "offen",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 116.0,
+         "Frage": "Your mariatl status",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 117.0,
+         "Frage": "How many children live with you (0, 1, 2, more than 2)",
+         "Frageart": "sc ",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 118.0,
+         "Frage": "Would you like to have children in the future (yes 1, no, yes, but number undecided, not sure yet)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 119.0,
+         "Frage": "Your level of education ",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 120.0,
+         "Frage": "Your income (low, moderate, high, I'd rather not share)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 121.0,
+         "Frage": "Your height ",
+         "Frageart": "Skala",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 122.0,
+         "Frage": "Your weight",
+         "Frageart": "Skala",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 123.0,
+         "Frage": "Your body type (slim, a few extra pounds, larger build, atheltic,...)",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 124.0,
+         "Frage": "Your hair colour ",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 125.0,
+         "Frage": "Your hair length",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "affiny",
+         "Frageposition": 126.0,
+         "Frage": "Your eye colour",
+         "Frageart": "sc",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 1.0,
+         "Frage": "Unabh\u00e4ngig von deinem aktuellen Wohnort, wo m\u00f6chtest du am liebsten leben?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 2.0,
+         "Frage": "Abgesehen von Liebe und Zuneigung, was sind die Hauptgr\u00fcnde f\u00fcr deinen Wunsch nach einer Beziehung?",
+         "Frageart": "max. 3 Angaben (7 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 3.0,
+         "Frage": "Welche Aussage sollte auf deinen Wunschpartner am meisten zutreffen.",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 4.0,
+         "Frage": "Was k\u00f6nnte dich wohl am ehesten interessieren, wenn du jemanden attraktiv findest?",
+         "Frageart": "genau 2 aus 5",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 5.0,
+         "Frage": "Angenommen, du bist zusammen mit deinem Partner zu einer Hochzeitsfeier eingeladen. Du bist gerade dabei dich fertig zu machen. So wie du dich kennst: Welche Gedanken gehen dir am ehesten durch den Kopf?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 6.0,
+         "Frage": "Warum, glaubst du, hast du bislang den richtigen Partner noch nicht gefunden?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 7.0,
+         "Frage": "Wenn dir ein Buch oder Artikel besonders gut gefallen hat, w\u00fcnscht du dir, dass dein Herzensmensch ihn auch liest?",
+         "Frageart": "single choice (2 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 8.0,
+         "Frage": "Angenommen, du wohnst als Paar zusammen: Wie w\u00fcrdest du euer Zuhause einrichten?",
+         "Frageart": "singel choice (2 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 9.0,
+         "Frage": "Wie reagierst du auf Liebeskummer?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 10.0,
+         "Frage": "Welche Aussage \u00fcber sexuelle Treue in der Beziehung kommt deiner Einstellung am n\u00e4chsten?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 11.0,
+         "Frage": "Welche Vorstellung hast du von der \u00e4u\u00dferen Form einer Eheschlie\u00dfung?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 12.0,
+         "Frage": "Welche Begriffe beschreiben Eigenschaften, von denen du m\u00f6chtest, dass andere diese an dir sch\u00e4tzen?",
+         "Frageart": "max. 5 aus 34",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 13.0,
+         "Frage": "Was, glaubst du, denken Menschen, die dich gut kennen, am ehesten \u00fcber dich?",
+         "Frageart": "genau 2 aus 9",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 14.0,
+         "Frage": "Was scheint dir in einer Beziehung am wichtigsten?",
+         "Frageart": "genau 2 aus 7",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 15.0,
+         "Frage": "Auf welche Reaktionen bei deinem pers\u00f6nlichen Umfeld legst du besonderen Wert, wenn es darum geht, mit wem du zusammen bist?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 16.0,
+         "Frage": "Trinkst du Alkohol?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 17.0,
+         "Frage": "Rauchst du?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 18.0,
+         "Frage": "Was machst du gern in deiner Freizeit?",
+         "Frageart": "max. 3 aus13",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 19.0,
+         "Frage": "Wie verbringst du deine Freizeit am liebsten?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 20.0,
+         "Frage": "Kochst du gern?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 21.0,
+         "Frage": "Welche besonderen Interessen hast du?",
+         "Frageart": "max. 6 aus 17",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 22.0,
+         "Frage": "Welche Sportarten betreibst du aktiv?",
+         "Frageart": "multiple choice (37 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 23.0,
+         "Frage": "Wie oft treibst du Sport?",
+         "Frageart": "quasi 4-P Leikert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 24.0,
+         "Frage": "Welche Musik h\u00f6rst du gern?",
+         "Frageart": "multiple choice (27 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 25.0,
+         "Frage": "Spielst du ein Instrument?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 26.0,
+         "Frage": "Welche Form von Urlaub machst du am liebsten?",
+         "Frageart": "multiple choice (15 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 27.0,
+         "Frage": "Wie planst du deinen Urlaub?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 28.0,
+         "Frage": "Machst du gern l\u00e4ngere Spazierg\u00e4nge?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 29.0,
+         "Frage": "Wie gehst du vor, wenn du dir privat etwas vorgenommen hast?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 30.0,
+         "Frage": "F\u00fchlst du dich in den eigenen vier W\u00e4nden meist wohler als in Gesellschaft?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 31.0,
+         "Frage": "Wie muss ein Wohnraum temperiert sein, damit du dich wohlf\u00fchlst?",
+         "Frageart": "single choice (2 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 32.0,
+         "Frage": "Schl\u00e4fst du bei offenem Fenster?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 33.0,
+         "Frage": "Fr\u00fcher Vogel oder doch eher Nachteule. Wie ist es bei dir?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 34.0,
+         "Frage": "Welches Bild sagt dir eher zu?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 35.0,
+         "Frage": "Welches Bild gef\u00e4llt dir besser?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 36.0,
+         "Frage": "Welche Anordnung spricht dich gef\u00fchlsm\u00e4\u00dfig eher an?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 37.0,
+         "Frage": "Von welchem Bild f\u00fchlst du dich mehr angesprochen?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 38.0,
+         "Frage": "Entscheide dich spontan f\u00fcr ein Bild?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 39.0,
+         "Frage": "Welche dieser Anordnungen ist dir lieber?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 40.0,
+         "Frage": "Zwei Darstellungen: In welche Bewegung k\u00f6nntest du dich besser einf\u00fchlen?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 41.0,
+         "Frage": "Welches Bild ziehst du vor?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 42.0,
+         "Frage": "F\u00fchle dich in die unterschiedlichen Bewegungsrichtungen ein und entscheide dich f\u00fcr eine.",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 43.0,
+         "Frage": "Welches gef\u00e4llt dir besser?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 44.0,
+         "Frage": "Welche Darstellung ziehst du vor?",
+         "Frageart": "Formenauswahl (dichotom)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 45.0,
+         "Frage": "Begeisterst du dich leicht f\u00fcr etwas?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 46.0,
+         "Frage": "Wenn dir ein Song oder Lied gut gef\u00e4llt: Woran liegt das meistens?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 47.0,
+         "Frage": "Welche Kl\u00e4nge sprechen dich am meisten an?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 48.0,
+         "Frage": "Unabh\u00e4ngig von aktuellen Trends: W\u00e4hlst du hinsichtlich Stil und Farbton deine Kleidung lieber ...",
+         "Frageart": "single choice (2 M\u00f6gl. - gedekt und dezent; kr\u00e4ftig und ausdrucksstark",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 49.0,
+         "Frage": "Welche Art von Haus spricht dich am ehesten an?",
+         "Frageart": "Bilderauswahl (3)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 50.0,
+         "Frage": "Welche dieser Pflanzen betrachtest du am liebsten?",
+         "Frageart": "Bilderauswahl (3)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 51.0,
+         "Frage": "Stellst du, wenn du nachhause kommst und allein bist, gewohnheitsm\u00e4\u00dfig gleich das Radio/ den Fernseher/Musik an?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 52.0,
+         "Frage": "St\u00f6rt es dich, wenn in deiner Umgebung ganz ungeniert telefoniert wird?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 53.0,
+         "Frage": "Wie kleidest du dich am liebsten?",
+         "Frageart": "max. 2 aus 7",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 54.0,
+         "Frage": "Du schaust im Gehen auf dein Handy, stolperst \u00fcber einen Stein und st\u00fcrzt. Dir ist nichts passiert, aber die Leute drehen sich um. Jemand m\u00f6chte dir helfen. Was w\u00e4re deine erste Reaktion?",
+         "Frageart": "single choice (6 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 55.0,
+         "Frage": "Der Paketdienst klingelt bei dir mit einer Lieferung f\u00fcr die Nachbarn, die eigentlich zuhause sind. Was k\u00f6nntest du sagen?",
+         "Frageart": "single choice (7 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 56.0,
+         "Frage": "Stelle dir vor: Eine Person aus deinem Freundeskreis kauft sich etwas sehr Teures: Technik, die du dir immer gew\u00fcnscht hast. Was k\u00f6nntest du der Person sagen?",
+         "Frageart": "single choice (6 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 57.0,
+         "Frage": "Stelle dir vor: Du und eine befreundete Person haben sich sehr \u00fcber das Verhalten eines anderen Menschen ge\u00e4rgert. Da macht deine vertraute Person den Vorschlag, dem anderen Menschen eins auszuwischen. Was k\u00f6nnte deine Reaktion sein?",
+         "Frageart": "single choice (6 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 58.0,
+         "Frage": "Was ist dein erster Impuls, wenn du dich \u00fcber das Verhalten eines Menschen, der dir nahe steht, einmal sehr \u00e4rgerst?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 59.0,
+         "Frage": "Manchmal geschieht es, dass man von einem Menschen gekr\u00e4nkt wird. Wie reagierst du darauf?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 60.0,
+         "Frage": "Wenn dir jemand widerspricht, obwohl du genau wei\u00dft, dass du Recht hast, wie reagierst du dann \u00fcblicherweise?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 61.0,
+         "Frage": "Stell dir vor: Du bist mit einem Mann, den du liebst, auf einer Party. Pl\u00f6tzlich siehst du, dass er mit einer anderen flirtet. Wie reagierst du?",
+         "Frageart": "single choice (4 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 62.0,
+         "Frage": "Es wird viel diskutiert \u00fcber Klimawandel, Umweltschutz, Energiequellen usw. Welche Aussage steht deiner Meinung am n\u00e4chsten?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 63.0,
+         "Frage": "Bist du mit deinem \u00e4u\u00dferen Erscheinungsbild zufrieden?",
+         "Frageart": "quasi 4-P Leikert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 64.0,
+         "Frage": "Glaubst du an das Gute im Menschen?",
+         "Frageart": "quasi 4-P Leikert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 65.0,
+         "Frage": "Wie wichtig ist Sexualit\u00e4t f\u00fcr dich?",
+         "Frageart": "4-P Leikert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 66.0,
+         "Frage": "Wie stehst du grunds\u00e4tzlich zum Thema Heiraten?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 67.0,
+         "Frage": "Ist es wichtig f\u00fcr dich, dass bei dir immer alles an dem Platz ist, wo es eigentlich hingeh\u00f6rt?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 68.0,
+         "Frage": "Welche Bedeutung hat Essen f\u00fcr dich?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 69.0,
+         "Frage": "Legst du Wert auf geregelte Mahlzeiten?",
+         "Frageart": "ja/nein",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 70.0,
+         "Frage": "Wie findest du es, wenn Werbung sexuell betont wird?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 71.0,
+         "Frage": "Was w\u00fcrdest dich in der Umgebung deines Partners in der Kennenlernphase am meisten st\u00f6ren?",
+         "Frageart": "single choice (5 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 72.0,
+         "Frage": "Welche der folgenden Werte sind f\u00fcr dich im Leben die wichtigsten?",
+         "Frageart": "max. 2 aus 8",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 73.0,
+         "Frage": "Nach welcher Devise sollte man deiner Meinung nach am ehesten leben?",
+         "Frageart": "single choice (3 M\u00f6gl.)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Parship",
+         "Frageposition": 74.0,
+         "Frage": "Was ist zur Zeit dein gr\u00f6\u00dfter Wunsch?",
+         "Frageart": "max. 2 aus 7",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": NaN,
+         "Frageposition": NaN,
+         "Frage": NaN,
+         "Frageart": NaN,
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 1.0,
+         "Frage": "Was ist dir in einer Partnerschaft besonders wichtig?",
+         "Frageart": "3 oder 4 aus 12",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 2.0,
+         "Frage": "Welche Werte, Motive und Ziele bestimmen dein Leben?",
+         "Frageart": "3 oder 4 aus 16 (mit Bilder)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 3.0,
+         "Frage": "Welche Werte, Motive und Ziele sind in deinem Leben nicht wichtig?",
+         "Frageart": "3 oder 4 aus 16 (mit Bilder; vorherige Antworten nicht ausw\u00e4hlbar)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 4.0,
+         "Frage": "Ich tausche mich gerne mit meinem Partner \u00fcber die Erlebnisse des Tages und unser Befinden aus.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 5.0,
+         "Frage": "Mir f\u00e4llt es leicht, die Standpunkte anderer zu verstehen und in eigenen Worten wiederzugeben.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 6.0,
+         "Frage": "Ich glaube, dass beim Kennenlernen zwei entweder gleich von Anfang an zusammen passen oder eben nicht.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 7.0,
+         "Frage": "Ich erlebe oft Situationen, in denen ich mich um andere k\u00fcmmere und ihnen vieles abnehme.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 8.0,
+         "Frage": "Aus Beziehungen kenne ich den Wunsch, mit meinem Partner am liebsten alles teilen zu wollen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 9.0,
+         "Frage": "Ich \u00fcberlasse es meist anderen, die Initiative zu ergreifen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 10.0,
+         "Frage": "In Stresssituationen bleibe ich ausdauernd und belastbar.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 11.0,
+         "Frage": "Wie w\u00fcrdest du am liebsten wohnen?",
+         "Frageart": "single choice (6 M\u00f6gl. mit Bilder)",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 12.0,
+         "Frage": "Auch wenn ich mich zu Recht \u00fcber jemanden \u00e4rgere, reagiere ich ohne verletzende Vorw\u00fcrfe.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 13.0,
+         "Frage": "Ich sehe Menschen meist an, was gerade in ihnen vorgeht.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 14.0,
+         "Frage": "Die W\u00fcnsche meines Partners stelle ich h\u00e4ufig \u00fcber meine eigenen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 15.0,
+         "Frage": "Bei Konflikten mit meinem Partner treffe ich meist den richtigen Ton.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 16.0,
+         "Frage": "Ohne meine Freir\u00e4ume werde ich in einer Partnerschaft nicht gl\u00fccklich.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 17.0,
+         "Frage": "Ich habe vielfach den Eindruck, andere wollen in meine Rechte eingreifen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 18.0,
+         "Frage": "Ich habe oft das Gef\u00fchl, dass mir andere zu nahe kommen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 19.0,
+         "Frage": "In der Freizeit f\u00fchle ich mich h\u00e4ufig unruhig und angespannt.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 20.0,
+         "Frage": "Ich neige dazu, anderen h\u00e4ufig Vorhaltungen zu machen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 21.0,
+         "Frage": "In Beziehungen habe ich immer wieder das Gef\u00fchl zu kurz zu kommen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 22.0,
+         "Frage": "Ich finde, dass die Liebe eines Paares durch Herausforderungen in der Beziehung verst\u00e4rkt wird.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 23.0,
+         "Frage": "Es f\u00e4llt mir schwer, mich in andere einzuf\u00fchlen und zu erkennen, wie es ihnen geht.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 24.0,
+         "Frage": "Werden verschiedene Dinge gleichzeitlig von mir verlangt, reagiere ich hektisch.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 25.0,
+         "Frage": "Entzieht mir mein Partner seine Unterst\u00fctzung, bin ich sehr entt\u00e4uscht und f\u00fchle mich im Stich gelassen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 26.0,
+         "Frage": "Es kam schon vor, dass andere mich als \"Besserwisser\" bezeichnet haben.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 27.0,
+         "Frage": "Wie verbringst du bevorzugt deine Freizeit?",
+         "Frageart": "1-5 Antworten aus 13",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 28.0,
+         "Frage": "Welche weiteren Interessen hast du?",
+         "Frageart": "1-5 Antworten aus 21",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 29.0,
+         "Frage": "Welche Sportarten \u00fcbst du aus oder magst du?",
+         "Frageart": "1-5 aus 37",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 30.0,
+         "Frage": "Was f\u00fcr Musik magst du?",
+         "Frageart": "1-5 aus 28",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 31.0,
+         "Frage": "Bei Kritik reagiere ich schnell ungehalten und genervt.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 32.0,
+         "Frage": "In Diskussionen f\u00fchle ich mich oft v\u00f6llig unverstanden.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 33.0,
+         "Frage": "Ich lasse mir von anderen nicht in meine Vorhaben und Einstellungen hineinreden.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 34.0,
+         "Frage": "In einer Beziehung f\u00e4llt es mir sehr schwer, mich ohne meine Partner wohl zu f\u00fchlen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 35.0,
+         "Frage": "Eine erfolgreiche Beziehung h\u00e4ngt meiner Meinung nach vor allem davon ab, wie ein Paar seine Konflikte l\u00f6st.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 36.0,
+         "Frage": "Auch wenn es mir sehr wichtig ist, f\u00fcr andere da zu sein, f\u00fchle ich mich manchmal dadurch \u00fcberfordert.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 37.0,
+         "Frage": "In Diskussionen kann ich meine Meinung darlegen, ohne andere zu verletzen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 38.0,
+         "Frage": "Mir ist am allerwichtigsten, meine Eigenst\u00e4ndigkeit meinem Partner gegen\u00fcber zu wahren.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 39.0,
+         "Frage": "Welche Jahreszeit magst du am liebsten?",
+         "Frageart": "4 Bilder",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 40.0,
+         "Frage": "Ich erlebe es oft, dass sich andere Menschen \u00fcber mich \u00e4rgern, obwohl ich gar nichts getan habe.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 41.0,
+         "Frage": "Den Charakter eines anderen treffend zu beschreiben f\u00e4llt mir schwer.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 42.0,
+         "Frage": "In Stresssituationen werde ich schnell w\u00fctend.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 43.0,
+         "Frage": "Beim Einschlafen qu\u00e4len mich h\u00e4ufig private oder berufliche Probleme.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 44.0,
+         "Frage": "Es beunruhigt mich, wenn ich das Gef\u00fchl habe, meinem Partner nicht das Richtige bieten zu k\u00f6nnen.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 45.0,
+         "Frage": "In einer Beziehung habe ich oft die Bef\u00fcrchtung, dass sich mein Partner von mir trennen k\u00f6nnte.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 46.0,
+         "Frage": "Mit meinen starken Empfindungen komme ich mir meinem Partner gegen\u00fcber manchmal ausgeliefert vor.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      },
+      {
+         "App": "Elitepartner",
+         "Frageposition": 47.0,
+         "Frage": "Ich glaube, dass sich gleich zu Beginn einer Beziehung zeigt, ob ein Paar dauerhaft zusammen gl\u00fccklich wird.",
+         "Frageart": "6-P Likert",
+         "Fragenintention": NaN,
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": NaN
+      }
+   ]
+}
