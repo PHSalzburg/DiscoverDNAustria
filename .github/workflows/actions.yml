@@ -29,8 +29,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git add output.json  # Here, we add the file saved by the Python script
+          git commit -m "update JSON file for Discover DN Austria"
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
