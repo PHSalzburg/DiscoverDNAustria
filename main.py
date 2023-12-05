@@ -10,5 +10,6 @@ df_json = {"events":[]}
 
 for i in range(len(df)):
     df_json["events"].append(df.iloc[i].to_dict())
-    
-json.dumps(df_json, indent=3)
+
+with open('output.json', 'w') as f:
+    json.dump(df_json, f, indent=3)
