@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '30 19 * * *' # At 00:00 on Monday
+    - cron: '15 20 * * *' # At 00:00 on Monday
 
 jobs:
   build:
@@ -33,7 +33,7 @@ jobs:
           git commit -m "update JSON file for Discover DN Austria"
           
       - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
