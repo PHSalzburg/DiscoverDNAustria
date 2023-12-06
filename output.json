@@ -2273,135 +2273,135 @@
          "Frageposition": "30",
          "Frage": "F\u00fchlst du dich in den eigenen vier W\u00e4nden meist wohler als in Gesellschaft?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Freizeitgestaltung/Pers\u00f6nlichkeit",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "31",
          "Frage": "Wie muss ein Wohnraum temperiert sein, damit du dich wohlf\u00fchlst?",
          "Frageart": "single choice (2 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "circadianer rhythmus",
+         "Notiz und Bewertung": "lol",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "32",
          "Frage": "Schl\u00e4fst du bei offenem Fenster?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "circadianer rhythmus",
+         "Notiz und Bewertung": "lol",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "33",
          "Frage": "Fr\u00fcher Vogel oder doch eher Nachteule. Wie ist es bei dir?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "circadianer rhythmus",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "34",
          "Frage": "Welches Bild sagt dir eher zu?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden/\u00e4hnliche emotionale Reaktionen?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "35",
          "Frage": "Welches Bild gef\u00e4llt dir besser?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "36",
          "Frage": "Welche Anordnung spricht dich gef\u00fchlsm\u00e4\u00dfig eher an?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "37",
          "Frage": "Von welchem Bild f\u00fchlst du dich mehr angesprochen?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "38",
          "Frage": "Entscheide dich spontan f\u00fcr ein Bild?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "39",
          "Frage": "Welche dieser Anordnungen ist dir lieber?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "40",
          "Frage": "Zwei Darstellungen: In welche Bewegung k\u00f6nntest du dich besser einf\u00fchlen?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "41",
          "Frage": "Welches Bild ziehst du vor?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "42",
          "Frage": "F\u00fchle dich in die unterschiedlichen Bewegungsrichtungen ein und entscheide dich f\u00fcr eine.",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "43",
          "Frage": "Welches gef\u00e4llt dir besser?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "44",
          "Frage": "Welche Darstellung ziehst du vor?",
          "Frageart": "Formenauswahl (dichotom)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/Gestaltpsychologie/\u00c4sthetisches Empfinden?",
+         "Notiz und Bewertung": "Wom\u00f6glich Frage um die Userinteraktion mit der App zu erh\u00f6hen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
