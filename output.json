@@ -2264,9 +2264,9 @@
          "Frageposition": "29",
          "Frage": "Wie gehst du vor, wenn du dir privat etwas vorgenommen hast?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": "Antrieb?",
-         "Notiz und Bewertung": "Was sind Optionen",
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Planung/Spontanit\u00e4t/von Stimmung abh\u00e4ngig",
+         "Notiz und Bewertung": NaN,
+         "Bei uns enthalten": "Nein "
       },
       {
          "App": "Parship",
@@ -2408,270 +2408,270 @@
          "Frageposition": "45",
          "Frage": "Begeisterst du dich leicht f\u00fcr etwas?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Offenheit/Pers\u00f6nlichkeit",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "46",
          "Frage": "Wenn dir ein Song oder Lied gut gef\u00e4llt: Woran liegt das meistens?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/emotionale Reaktion/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "47",
          "Frage": "Welche Kl\u00e4nge sprechen dich am meisten an?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/emotionale Reaktion/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "48",
          "Frage": "Unabh\u00e4ngig von aktuellen Trends: W\u00e4hlst du hinsichtlich Stil und Farbton deine Kleidung lieber ...",
          "Frageart": "single choice (2 M\u00f6gl. - gedekt und dezent; kr\u00e4ftig und ausdrucksstark",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/emotionale Reaktion/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "49",
          "Frage": "Welche Art von Haus spricht dich am ehesten an?",
          "Frageart": "Bilderauswahl (3)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/emotionale Reaktion/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "50",
          "Frage": "Welche dieser Pflanzen betrachtest du am liebsten?",
          "Frageart": "Bilderauswahl (3)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/emotionale Reaktion/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "51",
          "Frage": "Stellst du, wenn du nachhause kommst und allein bist, gewohnheitsm\u00e4\u00dfig gleich das Radio/ den Fernseher/Musik an?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Lebensf\u00fchrung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "52",
          "Frage": "St\u00f6rt es dich, wenn in deiner Umgebung ganz ungeniert telefoniert wird?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Lebensf\u00fchrung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "53",
          "Frage": "Wie kleidest du dich am liebsten?",
          "Frageart": "max. 2 aus 7",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pers\u00f6nliche Pr\u00e4ferenz/\u00c4sthetisches Empfinden?",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "54",
          "Frage": "Du schaust im Gehen auf dein Handy, stolperst \u00fcber einen Stein und st\u00fcrzt. Dir ist nichts passiert, aber die Leute drehen sich um. Jemand m\u00f6chte dir helfen. Was w\u00e4re deine erste Reaktion?",
          "Frageart": "single choice (6 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "55",
          "Frage": "Der Paketdienst klingelt bei dir mit einer Lieferung f\u00fcr die Nachbarn, die eigentlich zuhause sind. Was k\u00f6nntest du sagen?",
          "Frageart": "single choice (7 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "56",
          "Frage": "Stelle dir vor: Eine Person aus deinem Freundeskreis kauft sich etwas sehr Teures: Technik, die du dir immer gew\u00fcnscht hast. Was k\u00f6nntest du der Person sagen?",
          "Frageart": "single choice (6 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "57",
          "Frage": "Stelle dir vor: Du und eine befreundete Person haben sich sehr \u00fcber das Verhalten eines anderen Menschen ge\u00e4rgert. Da macht deine vertraute Person den Vorschlag, dem anderen Menschen eins auszuwischen. Was k\u00f6nnte deine Reaktion sein?",
          "Frageart": "single choice (6 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "58",
          "Frage": "Was ist dein erster Impuls, wenn du dich \u00fcber das Verhalten eines Menschen, der dir nahe steht, einmal sehr \u00e4rgerst?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "59",
          "Frage": "Manchmal geschieht es, dass man von einem Menschen gekr\u00e4nkt wird. Wie reagierst du darauf?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "60",
          "Frage": "Wenn dir jemand widerspricht, obwohl du genau wei\u00dft, dass du Recht hast, wie reagierst du dann \u00fcblicherweise?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "61",
          "Frage": "Stell dir vor: Du bist mit einem Mann, den du liebst, auf einer Party. Pl\u00f6tzlich siehst du, dass er mit einer anderen flirtet. Wie reagierst du?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Verhaltensvariablen/Pers\u00f6nlichkeit",
+         "Notiz und Bewertung": "Spannend, weil das am ehesten noch Interaktionsvariablen gleich kommt - was sind die Optionen?",
+         "Bei uns enthalten": "Jain, vielfach durch Pers\u00f6nlichkeit und andere Variablen abgedeckt"
       },
       {
          "App": "Parship",
          "Frageposition": "62",
          "Frage": "Es wird viel diskutiert \u00fcber Klimawandel, Umweltschutz, Energiequellen usw. Welche Aussage steht deiner Meinung am n\u00e4chsten?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Ehtische Ausrichtung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "63",
          "Frage": "Bist du mit deinem \u00e4u\u00dferen Erscheinungsbild zufrieden?",
          "Frageart": "quasi 4-P Leikert",
-         "Fragenintention": NaN,
+         "Fragenintention": "K\u00f6rperbild",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "64",
          "Frage": "Glaubst du an das Gute im Menschen?",
          "Frageart": "quasi 4-P Leikert",
-         "Fragenintention": NaN,
+         "Fragenintention": "Menschenbild/Philan-Misanthrop",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "65",
          "Frage": "Wie wichtig ist Sexualit\u00e4t f\u00fcr dich?",
-         "Frageart": "4-P Leikert",
-         "Fragenintention": NaN,
+         "Frageart": "4-P Likert",
+         "Fragenintention": "Stellenwert Sexualit\u00e4t",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "66",
          "Frage": "Wie stehst du grunds\u00e4tzlich zum Thema Heiraten?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Familienausrichtung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "67",
          "Frage": "Ist es wichtig f\u00fcr dich, dass bei dir immer alles an dem Platz ist, wo es eigentlich hingeh\u00f6rt?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Gewissenhaftigkeit/Ordnung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "68",
          "Frage": "Welche Bedeutung hat Essen f\u00fcr dich?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Kulinarik",
+         "Notiz und Bewertung": "Vllt nett, aber bin sicher biast weil es f\u00fcr mich wichtig ist",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "69",
          "Frage": "Legst du Wert auf geregelte Mahlzeiten?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Essenszeiten/rhythmus ",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "70",
          "Frage": "Wie findest du es, wenn Werbung sexuell betont wird?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Ehtisch-morallische Vorstellungen",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "71",
-         "Frage": "Was w\u00fcrdest dich in der Umgebung deines Partners in der Kennenlernphase am meisten st\u00f6ren?",
+         "Frage": "Was w\u00fcrde dich im Umfeld deines Gegen\u00fcbers in der Kennenlernphase am meisten st\u00f6ren?",
          "Frageart": "single choice (5 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Dealbreaker",
+         "Notiz und Bewertung": "Finde ich gut sollten wir \u00fcbernehmen; sind nur Dinge die man im sp\u00e4teren Verlauf einer Beziehung bemerkt",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "72",
          "Frage": "Welche der folgenden Werte sind f\u00fcr dich im Leben die wichtigsten?",
          "Frageart": "max. 2 aus 8",
-         "Fragenintention": NaN,
+         "Fragenintention": "Individuelle vs. kollektive Orientierung/Werte",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Jain? eher indirekt durch andere Variabeln"
       },
       {
          "App": "Parship",
          "Frageposition": "73",
          "Frage": "Nach welcher Devise sollte man deiner Meinung nach am ehesten leben?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Lebensphilosophie/Werte",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "74",
          "Frage": "Was ist zur Zeit dein gr\u00f6\u00dfter Wunsch?",
          "Frageart": "max. 2 aus 7",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "aktuelle W\u00fcnsche",
+         "Notiz und Bewertung": "R\u00e4ume beantworten diese Frage",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": NaN,
