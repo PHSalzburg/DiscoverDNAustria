@@ -2075,18 +2075,18 @@
          "Frageposition": "8",
          "Frage": "Angenommen, du wohnst als Paar zusammen: Wie w\u00fcrdest du euer Zuhause einrichten?",
          "Frageart": "singel choice (2 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pr\u00e4ferierte Innenausstattung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "9",
          "Frage": "Wie reagierst du auf Liebeskummer?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Umgang mit Trennungen",
+         "Notiz und Bewertung": "Vllt indirekt abgefragt durch Liebesstile, Limerenz etc",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
@@ -2095,7 +2095,7 @@
          "Frageart": "single choice (5 M\u00f6gl.)",
          "Fragenintention": NaN,
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
@@ -2103,44 +2103,44 @@
          "Frage": "Welche Vorstellung hast du von der \u00e4u\u00dferen Form einer Eheschlie\u00dfung?",
          "Frageart": "single choice (4 M\u00f6gl.)",
          "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Notiz und Bewertung": "Geht es hier darum wie die Hochzeit aussehen soll?",
+         "Bei uns enthalten": "Jain haben die Frage ob man eine Familie gr\u00fcnden will"
       },
       {
          "App": "Parship",
          "Frageposition": "12",
          "Frage": "Welche Begriffe beschreiben Eigenschaften, von denen du m\u00f6chtest, dass andere diese an dir sch\u00e4tzen?",
          "Frageart": "max. 5 aus 34",
-         "Fragenintention": NaN,
+         "Fragenintention": "Big 5 Fremdeinsch\u00e4tzung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "13",
          "Frage": "Was, glaubst du, denken Menschen, die dich gut kennen, am ehesten \u00fcber dich?",
          "Frageart": "genau 2 aus 9",
-         "Fragenintention": NaN,
+         "Fragenintention": "Big 5 Fremdeinsch\u00e4tzung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "14",
          "Frage": "Was scheint dir in einer Beziehung am wichtigsten?",
          "Frageart": "genau 2 aus 7",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Beziehungserwartungen",
+         "Notiz und Bewertung": "Was sind Optionen?",
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "15",
          "Frage": "Auf welche Reaktionen bei deinem pers\u00f6nlichen Umfeld legst du besonderen Wert, wenn es darum geht, mit wem du zusammen bist?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Zuspruch Familie/Freund bzgl Partnerschaft",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
@@ -2149,7 +2149,7 @@
          "Frageart": "single choice (3 M\u00f6gl.)",
          "Fragenintention": NaN,
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
@@ -2158,68 +2158,68 @@
          "Frageart": "single choice (3 M\u00f6gl.)",
          "Fragenintention": NaN,
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "18",
          "Frage": "Was machst du gern in deiner Freizeit?",
          "Frageart": "max. 3 aus13",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Emblems ausw\u00e4hlen f\u00fcr Hobbies und Interessen",
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "19",
          "Frage": "Wie verbringst du deine Freizeit am liebsten?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Emblems ausw\u00e4hlen f\u00fcr Hobbies und Interessen",
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
          "Frageposition": "20",
          "Frage": "Kochst du gern?",
          "Frageart": "single choice (5 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Emblems ausw\u00e4hlen f\u00fcr Hobbies und Interessen",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "21",
          "Frage": "Welche besonderen Interessen hast du?",
          "Frageart": "max. 6 aus 17",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Emblems ausw\u00e4hlen f\u00fcr Hobbies und Interessen",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "22",
          "Frage": "Welche Sportarten betreibst du aktiv?",
          "Frageart": "multiple choice (37 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Emblems ausw\u00e4hlen f\u00fcr Hobbies und Interessen",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "23",
          "Frage": "Wie oft treibst du Sport?",
          "Frageart": "quasi 4-P Leikert",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Das ist eher ein Estimate wie fett jemand ist als sonstwas",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "24",
          "Frage": "Welche Musik h\u00f6rst du gern?",
          "Frageart": "multiple choice (27 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Freizeitgestaltung/Musikgeschmak",
          "Notiz und Bewertung": NaN,
          "Bei uns enthalten": NaN
       },
