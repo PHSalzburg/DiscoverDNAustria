@@ -2012,18 +2012,18 @@
          "Frageposition": "1",
          "Frage": "Unabh\u00e4ngig von deinem aktuellen Wohnort, wo m\u00f6chtest du am liebsten leben?",
          "Frageart": "single choice (5 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Pr\u00e4ferierter Wohnort",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "2",
          "Frage": "Abgesehen von Liebe und Zuneigung, was sind die Hauptgr\u00fcnde f\u00fcr deinen Wunsch nach einer Beziehung?",
          "Frageart": "max. 3 Angaben (7 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Gr\u00fcnd/Bed\u00fcrfnisse hinter Paarbeziehung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
@@ -2031,7 +2031,7 @@
          "Frage": "Welche Aussage sollte auf deinen Wunschpartner am meisten zutreffen.",
          "Frageart": "single choice (3 M\u00f6gl.)",
          "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
+         "Notiz und Bewertung": "Was sind die Optionen?",
          "Bei uns enthalten": NaN
       },
       {
@@ -2040,7 +2040,7 @@
          "Frage": "Was k\u00f6nnte dich wohl am ehesten interessieren, wenn du jemanden attraktiv findest?",
          "Frageart": "genau 2 aus 5",
          "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
+         "Notiz und Bewertung": "Was sind die Optionen?",
          "Bei uns enthalten": NaN
       },
       {
@@ -2048,9 +2048,9 @@
          "Frageposition": "5",
          "Frage": "Angenommen, du bist zusammen mit deinem Partner zu einer Hochzeitsfeier eingeladen. Du bist gerade dabei dich fertig zu machen. So wie du dich kennst: Welche Gedanken gehen dir am ehesten durch den Kopf?",
          "Frageart": "single choice (4 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Heiratsintentionen",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Ja"
       },
       {
          "App": "Parship",
@@ -2058,17 +2058,17 @@
          "Frage": "Warum, glaubst du, hast du bislang den richtigen Partner noch nicht gefunden?",
          "Frageart": "single choice (5 M\u00f6gl.)",
          "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Notiz und Bewertung": "Finde ich f\u00fcr Partnerschaften gut, was waren die Optionen?",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "7",
          "Frage": "Wenn dir ein Buch oder Artikel besonders gut gefallen hat, w\u00fcnscht du dir, dass dein Herzensmensch ihn auch liest?",
          "Frageart": "single choice (2 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Geteilte Interessen",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Jain geteilte Interessen nicht direkt abgefragt"
       },
       {
          "App": "Parship",
