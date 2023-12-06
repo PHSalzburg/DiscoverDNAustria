@@ -2221,41 +2221,41 @@
          "Frageart": "multiple choice (27 M\u00f6gl.)",
          "Fragenintention": "Freizeitgestaltung/Musikgeschmak",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "25",
          "Frage": "Spielst du ein Instrument?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Freizeitgestaltung/Musikgeschmak",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "26",
          "Frage": "Welche Form von Urlaub machst du am liebsten?",
          "Frageart": "multiple choice (15 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Fragenintention": "Freizeitgestaltung",
+         "Notiz und Bewertung": "Nette Frage, vllt aufnehmen in Freizeitgestaltung",
+         "Bei uns enthalten": "Nein"
       },
       {
          "App": "Parship",
          "Frageposition": "27",
          "Frage": "Wie planst du deinen Urlaub?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
+         "Fragenintention": "Freizeitgestaltung",
          "Notiz und Bewertung": NaN,
-         "Bei uns enthalten": NaN
+         "Bei uns enthalten": "nein"
       },
       {
          "App": "Parship",
          "Frageposition": "28",
          "Frage": "Machst du gern l\u00e4ngere Spazierg\u00e4nge?",
          "Frageart": "ja/nein",
-         "Fragenintention": NaN,
+         "Fragenintention": "Freizeitgestaltung",
          "Notiz und Bewertung": NaN,
          "Bei uns enthalten": NaN
       },
@@ -2264,8 +2264,8 @@
          "Frageposition": "29",
          "Frage": "Wie gehst du vor, wenn du dir privat etwas vorgenommen hast?",
          "Frageart": "single choice (3 M\u00f6gl.)",
-         "Fragenintention": NaN,
-         "Notiz und Bewertung": NaN,
+         "Fragenintention": "Antrieb?",
+         "Notiz und Bewertung": "Was sind Optionen",
          "Bei uns enthalten": NaN
       },
       {
