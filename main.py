@@ -11,6 +11,7 @@ csv_export_url = url.replace('/edit?resourcekey#gid=', '/export?format=csv&gid='
 df = pd.read_csv(csv_export_url, on_bad_lines='skip')  # Skip problematic lines
 
 df = df.dropna(how='all').drop(columns = "Zeitstempel")
+df = df[df['BewilligungFuerAbruf'].str.lower() == 'ja']
 
 new_column_names = {'Zu welchen Fachbereichen lässt sich die Veranstaltung zuordnen': 'event_topics',
                     'Titel der Veranstaltung': 'event_title',
@@ -19,12 +20,11 @@ new_column_names = {'Zu welchen Fachbereichen lässt sich die Veranstaltung zuor
                     'Für welche Zielgruppen ist die Veranstaltung relevant': 'event_target_audience',
                     'Beginn (Datum) der Veranstaltung': 'event_date_start',
                     'Ende (Datum) der Veranstaltung': 'event_date_end',
-                    'Ende der Veranstaltung': 'event_start',
-                    'Beginn (Uhrzeit) der Veranstaltung': 'event_end',
-                    'event_classification ??': 'event_classification',
+                    'Ende (Uhrzeit) der Veranstaltung': 'event_end',
+                    'Beginn (Uhrzeit) der Veranstaltung': 'event_start',
                     'Kostenlose Teilnahme möglich?': 'event_has_fees',
                     'Ist die Veranstaltung Online?': 'event_is_online',
-                    'kann die Veranstaltung durch eine Schulklasse gebucht werden?': 'event_school_bookable',
+                    'Kann die Veranstaltung durch eine Schulklasse gebucht werden?': 'event_school_bookable',
                    'Name des Veranstalters': 'organization_name'}
 
 df.rename(columns=new_column_names, inplace=True)
@@ -75,14 +75,16 @@ df['event_address_street'] = "1"
 df['event_address_city'] = "1"
 df['event_address_zip'] = "1"
 df['event_address_state'] = "Salzburg"
+
 df['event_contact_name'] = "1"
 df['event_contact_org'] = "1"
 df['event_contact_email'] = "1"
 df['event_contact_phone'] = "1"
+
 #df['location'] = [1]
 df['program_name'] = "1"
 df['event_format'] = "1"
-df['event_classification'] ="1"
+df['event_classification'] = "scheduled"
 
 df = df[['event_title', 'event_description', 'event_link',
        'event_target_audience', 'event_topics', 'event_start', 'event_end',
