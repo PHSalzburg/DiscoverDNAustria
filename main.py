@@ -70,34 +70,32 @@ df['event_end'] = df['event_end'].dt.tz_localize('UTC').dt.tz_convert(cet_timezo
 df['event_start'] = df['event_start'].dt.tz_localize('UTC').dt.tz_convert(cet_timezone).dt.strftime('%Y-%m-%dT%H:%M:%S%z')
 
 
-df['event_location_name'] = "1"
-df['event_address_street'] = "1"
-df['event_address_city'] = "1"
-df['event_address_zip'] = "1"
+#df['event_location_name'] = "1"
+#df['event_address_street'] = "1"
+#df['event_address_city'] = "1"
+#df['event_address_zip'] = "1"
 df['event_address_state'] = "Salzburg"
 
-df['event_contact_name'] = "1"
-df['event_contact_org'] = "1"
-df['event_contact_email'] = "1"
-df['event_contact_phone'] = "1"
+#df['event_contact_name'] = "1"
+#df['event_contact_org'] = "1"
+#df['event_contact_email'] = "1"
+#df['event_contact_phone'] = "1"
 
 #df['location'] = [1]
-df['program_name'] = "1"
-df['event_format'] = "1"
+#df['program_name'] = "1"
+#df['event_format'] = "1"
 df['event_classification'] = "scheduled"
 
 df = df[['event_title', 'event_description', 'event_link',
        'event_target_audience', 'event_topics', 'event_start', 'event_end',
-       'event_classification', 'event_has_fees', 'event_is_online', 'organization_name', 'program_name',
-       'event_format', 'event_school_bookable', 'event_location_name', 'event_address_street',
-       'event_address_city', 'event_address_zip', 'event_address_state',
-       'event_contact_name', 'event_contact_org', 'event_contact_email',
-       'event_contact_phone']]
+       'event_classification', 'event_has_fees', 'event_is_online', 'organization_name', 
+       'event_school_bookable','event_address_state']]
 
 df_json = {"events":[]}
 
 for i in range(len(df)):
     df_json["events"].append(df.iloc[i].to_dict())
 
+    
 with open('output.json', 'w') as f:
     json.dump(df_json, f, indent=3)
