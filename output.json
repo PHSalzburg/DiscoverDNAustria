@@ -1,3 +1,50 @@
 {
-   "events": []
+   "events": [
+      {
+         "event_title": "test3",
+         "event_description": "adssadsadsa",
+         "event_link": "https://fireship.io/courses/firestore-data-modeling/",
+         "event_target_audience": [
+            40,
+            50,
+            70
+         ],
+         "event_topics": [
+            100,
+            700,
+            800
+         ],
+         "event_start": "2023-12-08T15:00:00+0100",
+         "event_end": "2023-12-15T23:00:00+0100",
+         "event_classification": "scheduled",
+         "event_has_fees": true,
+         "event_is_online": false,
+         "organization_name": "P\u00e4dagogische Hochschule Salzburg",
+         "event_school_bookable": true,
+         "event_address_state": "Salzburg"
+      },
+      {
+         "event_title": "Test4",
+         "event_description": "das ist ein test mit stes",
+         "event_link": "https://fireship.io/courses/firestore-data-modeling/",
+         "event_target_audience": [
+            30,
+            40,
+            50
+         ],
+         "event_topics": [
+            400,
+            500,
+            700
+         ],
+         "event_start": "2023-12-25T00:00:00+0100",
+         "event_end": "2023-12-18T16:11:00+0100",
+         "event_classification": "scheduled",
+         "event_has_fees": true,
+         "event_is_online": false,
+         "organization_name": "Hafen Hacklers",
+         "event_school_bookable": true,
+         "event_address_state": "Salzburg"
+      }
+   ]
 }
