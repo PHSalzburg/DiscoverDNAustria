@@ -1,13 +1,14 @@
-name: run testmain
+name: run main.py
 
 on: [push]
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v4 # checkout the repository content to github runner
+        uses: actions/checkout@v3 # checkout the repository content to github runner
 
       - name: setup node
         uses: actions/setup-node@v3
@@ -27,14 +28,21 @@ jobs:
       - name: execute py script # run main.py
         run: python main.py
           
+      - name: check for changes
+        id: changes
+        run: |
+          git add output.json
+          git diff-index --quiet HEAD || echo "changes" > changes_detected.txt
+          
       - name: commit files
+        if: steps.changes.outputs.changes_detected
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output.json  # Here, we add the file saved by the Python script
           git commit -m "update JSON file for Discover DN Austria"
           
       - name: push changes
+        if: steps.changes.outputs.changes_detected
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
