@@ -1,9 +1,6 @@
 name: run testmain
 
-on:
-  schedule:
-    - cron: '*/5 * * * *' # Every 5 minutes
-
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
