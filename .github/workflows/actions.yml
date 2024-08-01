@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '30 16 * * *' # At 00:00 on Monday
+    - cron: '*/5 * * * *' # At 16:30 every day
 
 jobs:
   build:
@@ -12,6 +12,11 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner
 
+      - name: setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20' # install Node.js version 20
+          
       - name: setup python
         uses: actions/setup-python@v4
         with:
@@ -36,4 +41,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          branch: main
