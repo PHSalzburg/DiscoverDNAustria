@@ -98,4 +98,4 @@ for i in range(len(df)):
 
     
 with open('output.json', 'w', encoding='utf-16') as f:
-    json.dump(df_json, f, indent=3)
+    json.dump(df_json, f, indent=3, ensure_ascii=False)
