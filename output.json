@@ -1,49 +1,43 @@
 {
    "events": [
       {
-         "event_title": "test3",
-         "event_description": "adssadsadsa",
-         "event_link": "https://fireship.io/courses/firestore-data-modeling/",
+         "event_title": " \u201eGeschichte und Politische Bildung\u201c   Theoretische, empirische und pragmatische Perspektiven auf den Lehrplan 2023 ",
+         "event_description": "Die Jahrestagung der Gesellschaft f\u00fcr Geschichtsdidaktik \u00d6sterreich (GD\u00d6) richtet sich neben Geschichts- und Politikdidaktiker:innen v.a. an Fachlehrer:innen aus \"Geschichte und Politische Bildung\" und Schulbuchautor:innen. Im Zentrum der Veranstaltung steht der neue Lehrplan (2023) f\u00fcr \"Geschichte und Politische Bildung\". Mit dem neuen Lehrplan f\u00fcr die Sekundarstufe I r\u00fccken zentrale fachliche Konzepte und fachspezifische Kompetenzorientierung vor dem Hintergrund einer reflexiven Grundbildung in den Blickpunkt. Der inhaltsorientierte \u201eStoff\u201c wurde abgeschafft und durch kompetenzorientiert zu denkende \u201eAnwendungsbereiche\u201c ersetzt. Grundlegend f\u00fcr eine so verstandene reflexive Grundbildung sind die Aspekte einer St\u00e4rkung der Fachspezifik und der Wissenschaftsorientierung. Der Unterrichtsgegenstand \u201eGeschichte und Politische Bildung\u201c will so zur reflektierten und selbstreflexiven Erschlie\u00dfung von Welt beitragen. In den Vortr\u00e4gen und Workshops stehen \u00dcberlegungen zu theoretischen, empirischen oder pragmatischen Gesichtspunkten im Mittelpunkt, die aus der Lehrplanreform erwachsen oder im Lehrplan grundgelegt sind.",
+         "event_link": "https://www.geschichtsdidaktik.com/gd%C3%B6-tagung-2024/",
          "event_target_audience": [
-            40,
-            50,
-            70
+            60
          ],
          "event_topics": [
-            100,
-            700,
-            800
+            500
          ],
-         "event_start": "2023-12-08T15:00:00+0100",
-         "event_end": "2023-12-15T23:00:00+0100",
+         "event_start": "2024-09-26T15:00:00+0200",
+         "event_end": "2024-09-27T14:30:00+0200",
          "event_classification": "scheduled",
          "event_has_fees": true,
          "event_is_online": false,
          "organization_name": "P\u00e4dagogische Hochschule Salzburg",
-         "event_school_bookable": true,
+         "event_school_bookable": false,
          "event_address_state": "Salzburg"
       },
       {
-         "event_title": "Test4",
-         "event_description": "das ist ein test mit stes",
-         "event_link": "https://fireship.io/courses/firestore-data-modeling/",
+         "event_title": "Transformative Bildung an Schulen und Hochschulen",
+         "event_description": "Von 24. bis 25. Oktober findet die Tagung \u201eTransformative Bildung  an Schulen und Hochschulen\u201c an der PH Salzburg Stefan Zweig statt. Ausgehend vom Begriff der sozial-\u00f6kologischen Transformation soll in diesem Rahmen der Frage nachgegangen werden, wie transformatives Denken und Handeln durch fachliche wie \u00fcberfachliche Bildung gef\u00f6rdert werden k\u00f6nnen. Auf Gegenstandsebene stellen unterschiedliche Konzepte von Nachhaltigkeit in den Bereichen \u00d6kologie, \u00d6konomie, Gesellschaft und Politik zentrale Bezugspunkte dar.  Der Blick richtet sich dabei interdisziplin\u00e4r auf Potenziale, Gelingensbedingungen und Handlungsstrategien von Transformativer Bildung, nicht zuletzt aus Sicht der Demokratiebildung. ",
+         "event_link": "https://phsalzburg.at/news/transformative-bildung-an-schulen-und-hochschulen/",
          "event_target_audience": [
-            30,
-            40,
-            50
+            60
          ],
          "event_topics": [
-            400,
             500,
+            600,
             700
          ],
-         "event_start": "2023-12-25T00:00:00+0100",
-         "event_end": "2023-12-18T16:11:00+0100",
+         "event_start": "2024-10-24T16:00:00+0200",
+         "event_end": "2024-10-25T15:30:00+0200",
          "event_classification": "scheduled",
          "event_has_fees": true,
          "event_is_online": false,
-         "organization_name": "Hafen Hacklers",
-         "event_school_bookable": true,
+         "organization_name": "P\u00e4dagogische Hochschule Salzburg",
+         "event_school_bookable": false,
          "event_address_state": "Salzburg"
       }
    ]
