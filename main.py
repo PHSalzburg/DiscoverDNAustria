@@ -97,5 +97,5 @@ for i in range(len(df)):
     df_json["events"].append(df.iloc[i].to_dict())
 
     
-with open('output.json', 'w', encoding='utf-16') as f:
+with open('output.json', 'w', encoding='utf-8') as f:
     json.dump(df_json, f, indent=3, ensure_ascii=False)
