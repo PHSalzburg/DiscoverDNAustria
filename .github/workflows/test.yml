@@ -35,14 +35,12 @@ jobs:
           git diff-index --quiet HEAD || echo "changes" > changes_detected.txt
           
       - name: commit files
-        if: steps.changes.outputs.changes_detected
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "update JSON file for Discover DN Austria"
           
       - name: push changes
-        if: steps.changes.outputs.changes_detected
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
